@@ -165,9 +165,9 @@ margin-left: 25px;
         opacity: 0;
         position: absolute; 
         right: 0px;
-        transform-origin: left center: 
-        transform: scaleX(0);
+        transform-origin: 0% 50%: 
         transition: all 250ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;
+        transform: scaleX(0);
         visibility: hidden;
         width: auto;
         }   
